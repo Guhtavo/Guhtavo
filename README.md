@@ -56,7 +56,8 @@ Me chamo Gustavo Antônio , tenho 25 anos e sou natural de São Paulo SP. Com o 
     title="Java"
     width="30px" 
     style="padding-right: 10px;"
- class="devicon-aarch64-planície"/>
+  <i class="devicon-java-plain colored"></i>
+          
           
 <img 
     align="left" 
