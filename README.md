@@ -2,10 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gustavo Antônio , tenho 25 anos e sou natural de São Paulo SP. Com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade Microlins. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Github.
-
-
-    <a href="https://github.com/Guhtavo? tab=repositories&sort=stargazers">
+Me chamo Gustavo Antônio , tenho 25 anos e sou natural de São Paulo SP. Com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na faculdade Microlins. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu  <a href="https://github.com/Guhtavo? tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -20,6 +17,8 @@ Me chamo Gustavo Antônio , tenho 25 anos e sou natural de São Paulo SP. Com o 
         />
     </a>
 </p>
+
+    
 
 ---
 
