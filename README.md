@@ -47,11 +47,14 @@ Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando evo
 
 <p align="center">
   <img 
-    height="140" 
-    src="https://github-readme-stats.vercel.app/api?username=Guhtavo&show_icons=true&theme=tokyonight" 
+    height="150" 
+    src="https://github-readme-stats.vercel.app/api?username=Guhtavo&show_icons=true&theme=tokyonight&cache_seconds=86400" 
   />
+  
   <img 
-    height="140" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guhtavo&layout=compact&theme=tokyonight" 
+    height="150" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guhtavo&layout=compact&theme=tokyonight&cache_seconds=86400" 
   />
 </p>
+
+<br clear="both"/>
