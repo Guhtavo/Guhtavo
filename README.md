@@ -41,20 +41,4 @@ Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando evo
 <br/>
 <br/>
 
----
 
-### 📊 Estatísticas GitHub
-
-<p align="center">
-  <img 
-    height="15" 
-    src="https://github-readme-stats.vercel.app/api?username=Guhtavo&show_icons=true&theme=tokyonight&cache_seconds=86400" 
-  />
-  
-  <img 
-    height="15" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guhtavo&layout=compact&theme=tokyonight&cache_seconds=86400" 
-  />
-</p>
-
-<br clear="both"/>
