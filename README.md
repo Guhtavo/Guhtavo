@@ -41,40 +41,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando evo
     
 <br/>
 <br/>
-### 📊 Estatísticas
 
-<p>
-
-&#x20; <img 
-
-&#x20;   align="left" 
-
-&#x20;   alt="GitHub Stats" 
-
-&#x20;   height="200" 
-
-&#x20;   style="padding-right: 10px;" 
-
-&#x20;   src="https://github-readme-stats.vercel.app/api?username=Guhtavo\&show\_icons=true\&theme=tokyonight\&include\_all\_commits=true\&locale=pt-br" 
-
-&#x20; />
-
-
-
-<img 
-
-&#x20;     align="left" 
-
-&#x20;     alt="GitHub Stats" 
-
-&#x20;     height="200" 
-
-&#x20;     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guhtavo\&theme=tokyonight\&layout=compact\&custom\_title=Tecnologias\&langs\_count=9" 
-
-&#x20; />
-
-
-
-</p>
 
 
